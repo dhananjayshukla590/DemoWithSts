@@ -8,6 +8,7 @@ public class CoreJavaLogicalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CoreJavaLogicalApplication.class, args);
+		
 	}
 
 }
